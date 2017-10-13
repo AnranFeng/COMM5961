@@ -1,0 +1,248 @@
+Num,Type of Burrito,Restaurant,Address,Near by,Cost ($),Overall Rating (out of 5),Provide Free Chips ?,Recipe,URL,Notes
+1,California,Donato's taco shop,6780 Miramar Rd,Miramar,6.49,3.8,No,Beef; Pico; Guac; Cheese; Fries,http://donatostacoshop.net/,good fries: 4/5
+2,California,Oscar's Mexican food,225 S Rancho Santa Fe Rd,San Marcos,5.45,3,No,Beef; Pico; Guac; Cheese; Fries,http://www.yelp.com/biz/oscars-mexican-food-san-marcos,Fries: 3/5; too little meat
+3,Carnitas,Oscar's Mexican food,225 S Rancho Santa Fe Rd,San Marcos,4.85,3,No,Pico; Guac; Pork,http://www.yelp.com/biz/oscars-mexican-food-san-marcos,
+4,Carne asada,Oscar's Mexican food,225 S Rancho Santa Fe Rd,San Marcos,5.25,3.75,No,Beef; Pico; Guac,http://www.yelp.com/biz/oscars-mexican-food-san-marcos,Go to average burrito place like Rigoberto's in la jolla; Terrible tamales
+5,California,Pollos Maria,3055 Harding St,Carlsbad,6.59,4.2,Yes,Beef; Pico; Cheese; Fries,http://pollosmaria.com/,
+6,combo chicken,Pollos Maria,3055 Harding St,Carlsbad,6.99,3.2,Yes,Guac; Cheese; Sour cream; Chicken; Rice; Beans; Lettuce; Tomato,http://pollosmaria.com/,
+7,California,Nico's Taco Shop,3860 Valley Centre Dr #404,Carmel Valley,7.19,2.6,No,Beef; Cheese; Fries; Sour cream,http://www.yelp.com/biz/nicos-taco-shop-san-diego,not fries. big potatoes
+8,Carnitas,Nico's Taco Shop,3860 Valley Centre Dr #404,Carmel Valley,6.99,3,No,Pico; Guac; Pork,http://www.yelp.com/biz/nicos-taco-shop-san-diego,
+9,Monster California,Los Primos Mexican Food,7770 Regents Rd,UTC,9.25,3.9,Yes,Beef; Pico; Guac; Cheese; Fries; Sour cream,http://www.primosmex.com/,this tasted really bad leftover. not included in rating
+10,Carne asada,JV's Mexican Food,1112 Morena Blvd,Morena,6.25,2,No,Beef; Pico; Guac,http://jvsmexfood.com/,
+11,Surf & Turf,JV's Mexican Food,1112 Morena Blvd,Morena,9.5,2.5,No,Beef; Guac; Shrimp; Rice; Bell; peper,http://jvsmexfood.com/,Huge. Shrimp is good. Meat is normal
+12,Chile verde pork,Tony's Fresh Mexican Food,7122 Miramar Rd,Miramar,6.95,3,Yes,Pico; Fries; Pork; Rice; Beans; Carrots,https://www.yelp.com/biz/tonys-fresh-mexican-food-san-diego,
+13,California,Tony's Fresh Mexican Food,7122 Miramar Rd,Miramar,6.25,3.9,Yes,Beef; Pico; Cheese; Fries,https://www.yelp.com/biz/tonys-fresh-mexican-food-san-diego,
+14,battered fish ,Tony's Fresh Mexican Food,7122 Miramar Rd,Miramar,6.99,2,Yes,Fish; Cabbage; Sauce,https://www.yelp.com/biz/tonys-fresh-mexican-food-san-diego,
+15,California,Tony's Fresh Mexican Food,7122 Miramar Rd,Miramar,6.25,2.75,Yes,Beef; Pico; Cheese; Fries,https://www.yelp.com/biz/tonys-fresh-mexican-food-san-diego,"to-go, no guac or sour cream, fries are a small and underdone"
+16,California,Taco stand,621 Pearl St,La Jolla,7.49,4.2,No,Beef; Pico; Guac; Cheese; Fries; Sour cream,http://letstaco.com/,Horchata is very sweet
+17,Surf & Turf,Taco stand,621 Pearl St,La Jolla,8.49,4.1,No,Beef; Pico; Guac; Shrimp; Cabbage,http://letstaco.com/,
+18,Adobada,Graciela's Taco Shop,5047 Central Ave,Bonita,5.99,4,No,Pork; Beans; Salsa; Cilantro; Onion,https://www.yelp.com/biz/gracielas-taco-shop-bonita-2,Salsa verde spicy
+19,Barbacoa,Graciela's Taco Shop,5047 Central Ave,Bonita,5.99,4,No,Beef; Cilantro; Onion,https://www.yelp.com/biz/gracielas-taco-shop-bonita-2,
+20,California,Rigoberto's Taco Shop La Jolla,7345 La Jolla Blvd,La Jolla,6.4,3,No,Beef; Pico; Fries,https://www.yelp.com/biz/rigobertos-la-jolla-2,
+21,California,Rigoberto's Taco Shop La Jolla,7345 La Jolla Blvd,La Jolla,6.4,3.5,No,Beef; Pico; Fries,https://www.yelp.com/biz/rigobertos-la-jolla-2,
+22,2 in 1,Lolita's taco shop,7305 Clairemont Mesa Blvd,Kearny Mesa,8.75,4,No,Beef; Guac; Cheese; Taquito,http://lolitasmexicanfood.com/,Rolled tacos need more meat
+23,Adobada,Lolita's taco shop,7305 Clairemont Mesa Blvd,Kearny Mesa,5.5,3.5,No,Pico; Guac; Pork,http://lolitasmexicanfood.com/,Adobado reminds me of Indian food because of some mystery spice
+24,California,Taco stand,7305 Clairemont Mesa Blvd,Kearny Mesa,7.49,4.6,No,Beef; Pico; Guac; Cheese; Fries; Sour cream,,
+25,California,Taco stand,7305 Clairemont Mesa Blvd,Kearny Mesa,7.49,4.5,No,Beef; Pico; Guac; Cheese; Fries; Sour cream,,
+26,Shredded beef,Lola's 7 Up Market & Deli,3292 Roosevelt St,Carlsbad,6,3.8,No,Beef; Pico; Cheese; Beans,https://www.yelp.com/biz/lolas-7-up-market-and-deli-carlsbad,Food cooks fast but checking out is painfully slow
+27,Carne asada,Lola's 7 Up Market & Deli,3292 Roosevelt St,Carlsbad,7,3,No,Beef; Pico; Guac; Cheese; Beans,https://www.yelp.com/biz/lolas-7-up-market-and-deli-carlsbad,Beans are surprisingly good
+28,Hawaiian,Colima's Mexican Food,2302 University Ave,North park,6.29,4,No,Cheese; Pork; Pineapple; Ham; Ham,https://www.yelp.com/biz/colimas-mexican-food-san-diego,
+29,Bandido,Colima's Mexican Food,2302 University Ave,North park,6.49,4,No,Beef; Rice; Beans; Sauce; Chile; relleno,https://www.yelp.com/biz/colimas-mexican-food-san-diego,
+30,Bandido,Colima's Mexican Food,2302 University Ave,North park,6.49,3,No,Beef; Rice; Beans; Sauce; Chile; relleno,https://www.yelp.com/biz/colimas-mexican-food-san-diego,Promising start but finished poorly
+31,Carne asada,Rigoberto's Taco Shop,7094 Miramar Rd,Miramar,6.6,4.25,No,Beef; Pico; Guac,https://www.yelp.com/biz/rigobertos-taco-shop-san-diego-2,
+32,Campeon,Rigoberto's Taco Shop,7094 Miramar Rd,Miramar,7.65,3.4,No,Beef; Pico; Guac; Cheese; Fries; Sour cream,https://www.yelp.com/biz/rigobertos-taco-shop-san-diego-2,
+33,Chile verde pork,Raul's Mexican food,490 S Coast Hwy 101,Encinitas,5,2,No,Pork; Beans; Salsa,https://www.yelp.com/biz/rauls-shack-encinitas,
+34,Carne asada,Raul's Mexican food,490 S Coast Hwy 101,Encinitas,5,1,No,Beef; Pico; Guac,https://www.yelp.com/biz/rauls-shack-encinitas,burrito was mostly tortilla
+35,California,El Zarape,4642 Park Blvd,University Heights,6.25,3.33,Yes,Beef; Pico; Guac; Cheese; Fries,https://www.yelp.com/biz/el-zarape-san-diego,
+36,California - Chicken,El Zarape,4642 Park Blvd,University Heights,6.25,2.5,Yes,Pico; Guac; Cheese; Fries; Chicken,"https://www.yelp.com/biz/el-zarape-san-diego
+",
+37,Azteca,El Zarape,4642 Park Blvd,University Heights,6.25,3,Yes,Beef; Pico; Cheese; Beans; Nopales,"https://www.yelp.com/biz/el-zarape-san-diego
+",
+38,Lobster,El Zarape,4642 Park Blvd,University Heights,9.5,3.2,Yes,Tomato; Cabbage; Sauce; Lobster,"https://www.yelp.com/biz/el-zarape-san-diego
+",quite small
+39,California,El Indio,3695 India St,San Diego,7.84,4,No,Beef; Guac; Cheese; Fries,http://elindiosandiego.com/,
+40,Carne asada,Taco stand,3695 India St,San Diego,7.89,4.2,No,Beef; Pico; Guac,,
+41,Al pastor,Taco stand,3695 India St,San Diego,6.99,3.5,No,Pork; Cilantro; Onion; Pineapple,,Kind of dry 
+42,Custom,"Qdoba Mexican Grill, Seatac Airport",Airport,Seattle,9.5,3,No,Pico; Guac; Cheese; Pork; Rice; Beans; Lettuce,,
+43,California,Cancun Mexican & Seafood,1766 N Coast Hwy,Encinitas,6.99,4.2,Yes,Beef; Cheese; Fries; Sour cream,http://cancunmexicanandseafood.com/,A bit small
+44,Machaca,Cancun Mexican & Seafood,1766 N Coast Hwy,Encinitas,5.99,3.9,Yes,Beef; Bell; peper; Onion; Egg,http://cancunmexicanandseafood.com/,So hot! Egg is surprisingly good
+45,Quesaburro,Vallarta express,4277 Genesee Ave,Clairemont,6.95,4.1,No,Beef; Pico; Guac; Cheese,http://www.vallartaexpress.com/menu/,
+46,Philly ,Vallarta express,4277 Genesee Ave,Clairemont,6.95,3,No,Beef; Cheese; Bell; peper; Salsa; Mushroom; Becon,http://www.vallartaexpress.com/menu/,Guac chips have lots of cheese
+47,Carne asada,Vallarta express,4277 Genesee Ave,Clairemont,6.5,3.25,No,Beef; Pico; Guac,http://www.vallartaexpress.com/menu/,
+48,Quesa,Vallarta express,4277 Genesee Ave,Clairemont,6.95,3.75,No,Beef; Pico; Guac; Cheese; Chicken,http://www.vallartaexpress.com/menu/,Heart-stopping amount of cheese. Second tortilla of cheese
+49,Surf & Turf,Vallarta express,4277 Genesee Ave,Clairemont,7.65,3.5,No,Beef; Guac; Sour cream; Shrimp; Rice; Beans,http://www.vallartaexpress.com/menu/,Hot carrots
+50,Mahi,Vallarta express,4277 Genesee Ave,Clairemont,7.3,3.5,No,,http://www.vallartaexpress.com/menu/,
+51,California,Mikes Taco Club,5060 Newport Ave,Ocean Beach,8.59,4.3,No,Beef; Pico; Guac; Cheese; Fries; Sour cream,http://www.mikestacoclub.com/menu/,
+52,California,Mikes Taco Club,5060 Newport Ave,Ocean Beach,8.59,4.5,No,Beef; Pico; Guac; Cheese; Fries; Sour cream,http://www.mikestacoclub.com/menu/,
+53,Addiction,La Perla Cocina,745 Emerald St,Pacific Beach,7.99,2.5,No,Beef; Pico; Guac; Beans; Mushroom,https://www.yelp.com/biz/la-perla-cocina-mexicana-san-diego,Bland
+54,Oaxacalifornia,La Perla Cocina,745 Emerald St,Pacific Beach,9.99,4,No,Beef; Pico; Guac; Cheese; Fries,https://www.yelp.com/biz/la-perla-cocina-mexicana-san-diego,Fries are good
+55,Deborah's special,Porkyland ,4645 Carmel Mountain Rd,Carmel Valley,8.25,4,Yes,Beef; Nopales,http://goporkyland.com/,
+56,Chicken nopalito,Porkyland ,4645 Carmel Mountain Rd,Carmel Valley,7.95,3.3,Yes,Guac; Chicken; Sauce; Nopales,http://goporkyland.com/,
+57,Chicken nopalito,Porkyland ,4645 Carmel Mountain Rd,Carmel Valley,7.95,4,Yes,Guac; Chicken; Sauce; Nopales,http://goporkyland.com/,
+58,California,Porkyland ,4645 Carmel Mountain Rd,Carmel Valley,8.75,4,Yes,Beef; Guac; Cheese; Fries; Sour cream,http://goporkyland.com/,
+59,California,Rigoberto's Taco Shop,4645 Carmel Mountain Rd,Carmel Valley,6.6,4.5,No,Beef; Cheese; Fries; Sauce,,
+60,Adobada,Rigoberto's Taco Shop,4645 Carmel Mountain Rd,Carmel Valley,6.6,4.5,No,Guac; Pork,,
+61,California,Rigoberto's Taco Shop,4645 Carmel Mountain Rd,Carmel Valley,6.6,3.6,No,Beef; Cheese; Fries; Sauce,,Too much enchilada sauce this time
+62,Surf & Turf,Rigoberto's Taco Shop,4645 Carmel Mountain Rd,Carmel Valley,7.45,3,No,Beef; Cheese; Shrimp; Rice,,Would have enjoyed it more if wasn't rating; shrimp better than meat. Quality of the shrimp really improves the burrito. Well cooked and fresh. Shrimp could have had more flavor
+63,Chicken,Rudy's Taco Shop,524 Stevens Ave,Solana Beach,6.6,2.8,No,Beef; Guac; Chicken,http://www.rudystacoshop.com/,"Salsa Fresca is good, way too small"
+64,Carnitas,Rudy's Taco Shop,524 Stevens Ave,Solana Beach,6.6,3,No,Beef; Guac; Pork,http://www.rudystacoshop.com/,
+65,Carne asada,Taco stand,524 Stevens Ave,Solana Beach,7.89,4.4,No,Beef; Guac,,Too small 
+66,Carne asada,Taco stand,524 Stevens Ave,Solana Beach,7.89,3.5,No,Beef; Pico; Guac,,A little small. No rice and beans or cheese or sour cream
+67,California Everything,California Burritos,7754 Starling Dr,Linda Vista,6.25,4.1,Yes,Beef; Pico; Guac; Cheese; Fries; Sour cream,https://www.yelp.com/biz/california-burritos-san-diego,
+68,California Everything,California Burritos,7754 Starling Dr,Linda Vista,6.25,4,Yes,Beef; Pico; Guac; Cheese; Fries; Sour cream,"https://www.yelp.com/biz/california-burritos-san-diego
+",Brent doesn't like fries in his burrito
+69,California Everything,California Burritos,7754 Starling Dr,Linda Vista,6.25,4.6,Yes,Beef; Pico; Guac; Cheese; Fries; Sour cream,"https://www.yelp.com/biz/california-burritos-san-diego
+",
+70,Chile relleno and carnitas,California Burritos,7754 Starling Dr,Linda Vista,6.5,4.7,Yes,Pico; Cheese; Sour cream; Pork; Rice; Chile; relleno,"https://www.yelp.com/biz/california-burritos-san-diego
+",
+71,California (only cheese),California Burritos,7754 Starling Dr,Linda Vista,6.25,5,Yes,Beef; Cheese; Fries,"https://www.yelp.com/biz/california-burritos-san-diego
+",
+72,Fish,Vallarta express,7754 Starling Dr,Linda Vista,6.5,3.5,No,,http://www.vallartaexpress.com/menu/,
+73,California,Vallarta express,7754 Starling Dr,Linda Vista,6.65,4,No,,http://www.vallartaexpress.com/menu/,
+74,California,Jorge's Mexicatessen,267 N El Camino Rea,Encinitas ,5.95,3.8,No,Beef; Cheese; Fries; Sour cream,https://www.yelp.com/biz/jorges-mexicatessen-encinitas,"Cheese should be melted, potatoes are very good"
+75,Chimichanga beef,Jorge's Mexicatessen,267 N El Camino Rea,Encinitas ,5.5,3,No,Beef; Guac; Cheese; Sour cream; Rice; Beans; Sauce,https://www.yelp.com/biz/jorges-mexicatessen-encinitas,
+76,California,Senor Grubby's,377 Carlsbad Village Dr,Carlsbad,9,1.5,No,Beef; Pico; Cheese; Fries,eatgrubbys.com,"The ends of the burrito were decent, but the middle was terrible without much meat"
+77,Pastor,Senor Grubby's,377 Carlsbad Village Dr,Carlsbad,9,1.8,No,Guac; Pork; Cilantro; Onion,eatgrubbys.com,
+78,California,Taco stand,377 Carlsbad Village Dr,Carlsbad,8,4.9,No,Beef; Pico; Guac; Cheese; Fries,,A wonderful eating experience. best California burrito I've ever had by far. 
+79,California,Mi Asador Mexican & Seafood ,4750 Oceanside Blvd,Oceanside,6.89,3,Yes,Beef; Guac; Cheese; Fries; Sour cream,https://sites.google.com/site/miasador/,
+80,El Hawaiiano ,Mi Asador Mexican & Seafood ,4750 Oceanside Blvd,Oceanside,6.39,3.5,Yes,Beef; Guac; Cheese; Sour cream; Pineapple,https://sites.google.com/site/miasador/,Pineapple is really good
+81,California,Sotos Mexican Food,6904 Miramar Rd,Miramar ,6.75,3.5,Yes,Beef; Guac; Cheese; Fries; Sour cream,https://www.yelp.com/biz/sotos-mexican-food-san-diego,Fries are good. Too little meat
+82,Pastor,Sotos Mexican Food,6904 Miramar Rd,Miramar ,5.99,3.2,Yes,Guac; Pork; Cilantro; Onion,https://www.yelp.com/biz/sotos-mexican-food-san-diego,Free lime. Ingredients chopped finely
+83,California,Taco stand,6904 Miramar Rd,Miramar ,7.49,4.2,No,Beef; Pico; Guac; Cheese; Fries; Sour cream,,Less meat than usual
+84,California,Taco stand,6904 Miramar Rd,Miramar ,7.49,4.5,No,Beef; Pico; Guac; Cheese; Fries; Sour cream,,
+85,California,Taco stand,6904 Miramar Rd,Miramar ,7.49,3.7,No,Beef; Pico; Guac; Cheese; Fries; Sour cream,,
+86,California,Taco stand,6904 Miramar Rd,Miramar ,7.49,4,No,Beef; Pico; Guac; Cheese; Fries; Sour cream,,
+87,California,Taco stand,6904 Miramar Rd,Miramar ,7.49,4,No,Beef; Pico; Guac; Cheese; Fries; Sour cream,,
+88,Carne asada,Taco stand,6904 Miramar Rd,Miramar ,7.89,3.5,No,Beef; Pico; Guac,,
+89,Shrimp,Taco stand,6904 Miramar Rd,Miramar ,8.95,5,No,,,
+90,California,Vallarta express,6904 Miramar Rd,Miramar ,6.95,2.9,No,,http://www.vallartaexpress.com/menu/,
+91,California,Lolita's taco shop,6904 Miramar Rd,Miramar ,7,3.3,No,Beef; Cheese; Fries; Sour cream,,
+92,2 in 1,Lolita's taco shop,6904 Miramar Rd,Miramar ,8.75,3.7,No,Beef; Guac; Cheese; Taquito,,
+93,2 in 1,Lolita's taco shop,6904 Miramar Rd,Miramar ,8.75,3.8,No,Beef; Guac; Cheese; Taquito,,
+94,El Rusio,Rigoberto's Taco Shop,6904 Miramar Rd,Miramar ,6.65,2.5,No,Beef; Pico; Cheese; Fries,,Fries are terrible. Burrito leaked
+95,Carne asada,Rigoberto's Taco Shop,6904 Miramar Rd,Miramar ,6.6,4,No,Beef; Pico; Guac,,
+96,Carne asada,Rigoberto's Taco Shop,6904 Miramar Rd,Miramar ,6.6,3,No,Beef; Pico; Guac,,Meat was too salty
+97,Carnitas,Rigoberto's Taco Shop,6904 Miramar Rd,Miramar ,7.5,4,No,Pico; Guac; Pork,,
+98,Bacon breakfast,Rigoberto's Taco Shop,6904 Miramar Rd,Miramar ,6.25,4.2,No,Cheese; Fries; Egg; Becon,,
+99,Chile Relleno,Rigoberto's Taco Shop,6904 Miramar Rd,Miramar ,6.6,4.5,No,Cheese; Sour cream; Lettuce; Sauce; Chile; relleno,,
+100,Fish,Rigoberto's Taco Shop,6904 Miramar Rd,Miramar ,6,5,No,Fish; Lettuce; Tomato; Cilantro; Onion,,
+101,Bomb,Karina's Taco Shop ,916 N Coast Hwy 101,Encinitas ,7.99,3.7,No,Beef; Guac; Cheese; Fries; Sour cream; Taquito,https://www.yelp.com/biz/karinas-taco-shop-encinitas,
+102,California,Karina's Taco Shop ,916 N Coast Hwy 101,Encinitas ,6.99,3.8,No,Beef; Cheese; Fries; Sour cream,https://www.yelp.com/biz/karinas-taco-shop-encinitas,
+103,California,Juanita's Taco Shop,290 N Coast Hwy 101,Encinitas ,5.55,3.5,No,Beef; Cheese; Fries; Sour cream,https://www.yelp.com/biz/juanitas-taco-shop-encinitas,
+104,Arizona,Juanita's Taco Shop,290 N Coast Hwy 101,Encinitas ,5.55,3.9,No,Beef; Guac; Fries,https://www.yelp.com/biz/juanitas-taco-shop-encinitas,
+105,Custom,Goody's,Marshall College,La Jolla,7.25,1.8,No,Beef; Pico; Guac; Cheese; Rice; Beans; Salsa,https://www.yelp.com/biz/goodys-place-and-market-la-jolla,Grocery store tortilla; cold guac
+106,California Burrito,Pedro's Tacos,Marshall College,Oceanside,6.5,5,No,,,
+107,619 Burrito Original,Los Primos Mexican Food,Marshall College,Oceanside,11.75,4,Yes,Beef; Fries; Sauce,,
+108,Fish,Kotija Jr.,Marshall College,Oceanside,6.5,5,No,Fish; Cabbage; Sauce,,Great fish burrito. Not fishy and has great crunch from both cabbage and fried fish. Super generous with amount of fish given
+109,California,La Perla Cocina,Marshall College,Oceanside,6.5,4,No,Beef; Pico; Guac; Cheese; Fries; Sour cream,,A LOT of carne asada!
+110,Custom,Goody's,Marshall College,La Jolla,8,2,No,Beef; Pico; Guac; Sour cream; Lettuce,https://www.yelp.com/biz/goodys-place-and-market-la-jolla,"The price has gone up for the past two years. I would probably rate this lower because of it, but my scores were on raw taste only."
+111,Custom,Goody's,Marshall College,La Jolla,8,2,No,Cheese; Sour cream; Chicken; Beans; Lettuce; Salsa,https://www.yelp.com/biz/goodys-place-and-market-la-jolla,It's gone downhill since 2013. Expensive and only ate it because there's nothing else around. closes early. skimping on the portions.
+112,Custom,Chipotle,Marshall College,La Jolla,7,4,No,,,
+113,Al pastor,Rigoberto's Taco Shop,Marshall College,La Jolla,,4.8,No,,,
+114,California,Taco Surf PB,4657 Mission Blvd,Pacific Beach,7.14,4.4,No,Beef; Guac; Cheese; Fries; Sour cream; Rice,https://www.yelp.com/biz/taco-surf-taco-shop-san-diego,not too much rice
+115,California,Taco Surf PB,4657 Mission Blvd,Pacific Beach,7.14,4.1,No,Beef; Guac; Cheese; Fries; Sour cream; Rice,https://www.yelp.com/biz/taco-surf-taco-shop-san-diego,hashbrowns instead of fries; anterior-posterior uniformity is good but medial-lateral is bad
+116,Carne asada,Taco Surf PB,4657 Mission Blvd,Pacific Beach,6.02,3.7,No,Beef; Guac,https://www.yelp.com/biz/taco-surf-taco-shop-san-diego,one hot side and one cold side from the guac
+117,Chicken asada,Roberto's Very Mexican Food,2206 Carmel Valley Road,Del Mar,6.5,1.5,No,Pico; Guac; Chicken,https://www.yelp.com/biz/robertos-very-mexican-food-del-mar-2,
+118,Carnitas,Roberto's Very Mexican Food,2206 Carmel Valley Road,Del Mar,5.4,2.7,No,Pico; Guac; Pork,https://www.yelp.com/biz/robertos-very-mexican-food-del-mar-2,
+119,California,Netos Mexican Food,325 S Rancho Santa Fe Rd,San Marcos,5.99,3.2,Yes,Beef; Pico; Guac; Cheese; Fries; Sour cream,https://www.yelp.com/biz/netos-mexican-food-san-marcos,not 100% certain about the ingredients (was there guac and pico?)
+120,Carne adobada ,Netos Mexican Food,325 S Rancho Santa Fe Rd,San Marcos,5.5,3,Yes,Beef; Pico; Guac; Pineapple,https://www.yelp.com/biz/netos-mexican-food-san-marcos,"Best free chips, novel burrito"
+121,Carne asada,Lolita's taco shop,325 S Rancho Santa Fe Rd,San Marcos,6.25,2.6,No,Beef; Guac,,Way too small
+122,Shrimp,Lolita's taco shop,325 S Rancho Santa Fe Rd,San Marcos,8.95,3,No,Beef; Shrimp; Lettuce; Sauce,,
+123,Bean and cheese,Lolita's taco shop,325 S Rancho Santa Fe Rd,San Marcos,3.5,2.7,No,Cheese; Beans,,
+124,Pokirrito classic ,Pokirrito,4646 Convoy St,Kearny Mesa,11.95,4.2,Yes,Sushi,https://www.yelp.com/biz/pokirrito-san-diego-2,Lotus chips add good crunch
+125,Mauna Lani,Pokirrito,4646 Convoy St,Kearny Mesa,11.95,4,Yes,Sushi,https://www.yelp.com/biz/pokirrito-san-diego-2,
+126,California,Los Primos Mexican Food,4646 Convoy St,Kearny Mesa,7.5,3.5,No,Pico; Cheese; Fries; Chicken; Tomato,,
+127,Especial ,El Nopalito ,582 Santa Fe Dr,Encinitas,4.87,2.6,Yes,Beef; Guac; Cheese; Rice; Beans; Lettuce; Tomato,https://www.yelp.com/biz/el-nopalito-encinitas,"It's pretty good for what it is, but just not the best ingredients for a burrito. also Few white people"
+128,Ranchero steak,El Nopalito ,582 Santa Fe Dr,Encinitas,4.87,2.6,Yes,,https://www.yelp.com/biz/el-nopalito-encinitas,
+129,Carne asada,Goody's,582 Santa Fe Dr,Encinitas,6.25,2,No,,,"Sucks, but it is okay."
+130,Vegetarian,Saguaro's ,582 Santa Fe Dr,Encinitas,5.25,4.8,No,,,"Great rice and beans burrito, doesn't come with cheese or sour cream. "
+131,Colimas burrito,Colima's ,582 Santa Fe Dr,Encinitas,8.25,4.9,Yes,,,
+132,Carne asada,"Alberto's 623 N Escondido Blvd, Escondido, CA 92025",582 Santa Fe Dr,Encinitas,4.59,4.8,No,,,
+133,Bean and rice grande size,MXN on Washington,582 Santa Fe Dr,Encinitas,2.99,4.5,No,,,Got green and hot salsa put inside the burrito-drive thru
+134,Surf & Turf,El Zarape,582 Santa Fe Dr,Encinitas,7,5,No,,,Get the green sauce
+135,Bean and cheese,Lolita's,582 Santa Fe Dr,Encinitas,,4.8,No,,,
+136,Pollo california,Humbertos,582 Santa Fe Dr,Encinitas,6,5,No,,,
+137,Surf & Turf,Chili Peppers,582 Santa Fe Dr,Encinitas,9.43,5,No,,,
+138,Monster California,Los Primos Mexican Food,582 Santa Fe Dr,Encinitas,9.25,2.3,No,Beef; Guac; Cheese; Fries; Sour cream,,
+139,California,Los Primos Mexican Food,582 Santa Fe Dr,Encinitas,7,2.5,No,Beef; Guac; Cheese; Fries,,
+140,California breakfast,Los Primos Mexican Food,582 Santa Fe Dr,Encinitas,6.25,2,No,Beef; Cheese; Fries; Sour cream; Egg,,
+141,Baja monster,Los Primos Mexican Food,582 Santa Fe Dr,Encinitas,6,2,No,Pico; Guac; Pork; Beans,,
+142,Baja monster,Los Primos Mexican Food,582 Santa Fe Dr,Encinitas,6,3.8,No,Pico; Guac; Pork; Beans,,
+143,Carnitas,Los Primos Mexican Food,582 Santa Fe Dr,Encinitas,6.35,2,No,Guac; Pork,,
+144,Local,Los Tacos,2183 Vista Way,Oceanside,7.9,3.5,No,Beef; Cheese; Fries; Pork; Pineapple,https://www.yelp.com/biz/los-tacos-oceanside,
+145,Fusion,Los Tacos,2183 Vista Way,Oceanside,8.5,4.2,No,Beef; Guac; Cheese; Pork; Cilantro; Onion,"https://www.yelp.com/biz/los-tacos-oceanside
+",
+146,Al pastor,Taco stand,2183 Vista Way,Oceanside,6.99,3.9,No,Pork; Sauce; Cilantro; Onion; Pineapple,,
+147,Al pastor,Taco stand,2183 Vista Way,Oceanside,6.99,3.5,No,Pork; Sauce; Cilantro; Onion; Pineapple,,
+148,California,Albertacos,500 W San Marcos Blvd # 103,San Marcos,5.7,3.7,No,Beef; Guac; Cheese; Fries; Sour cream,https://www.yelp.com/biz/albertacos-san-marcos,
+149,Carne asada,Albertacos,500 W San Marcos Blvd # 103,San Marcos,5.25,3.2,No,Beef; Guac,https://www.yelp.com/biz/albertacos-san-marcos,
+150,California Surf,El Rey Moro,4471 Clairemont Mesa Blvd,Clairemont,9.19,4,No,Beef; Guac; Cheese; Fries; Shrimp; Sauce,https://www.yelp.com/biz/el-rey-moro-taco-shop-san-diego,shrimp is really good. too much chipotle sauce
+151,Carne asada,Tacos por favor,1408 Olympic Blvd,Santa Monica,7.85,3.5,Yes,Beef; Guac; Rice; Beans,https://www.yelp.com/biz/el-dorado-mexican-food-temecula,
+152,Al pastor,Tacos por favor,1408 Olympic Blvd,Santa Monica,6.85,4,Yes,Beef; Pork; Rice; Beans,https://www.yelp.com/biz/el-dorado-mexican-food-temecula,
+153,Carne asada,Tacos por favor,1408 Olympic Blvd,Santa Monica,6.85,3.5,Yes,Beef; Rice; Beans,https://www.yelp.com/biz/el-dorado-mexican-food-temecula,
+154,California,El dorado Mexican food,29000 Old Town Front St,Temecula,6.94,4.5,No,Beef; Guac; Cheese; Fries; Sour cream,https://www.yelp.com/biz/el-dorado-mexican-food-temecula,Salsa verde has an interesting hint of garlic
+155,Super,El dorado Mexican food,29000 Old Town Front St,Temecula,6.94,3.8,No,Beef; Guac; Cheese; Sour cream; Salsa,https://www.yelp.com/biz/el-dorado-mexican-food-temecula,
+156,California,Lolita's taco shop,29000 Old Town Front St,Temecula,7,2.3,No,Beef; Cheese; Fries; Sour cream,,
+157,California,Lolita's taco shop,29000 Old Town Front St,Temecula,7,4,No,Beef; Cheese; Fries; Sour cream,,
+158,California,Lolita's taco shop,29000 Old Town Front St,Temecula,7,3,No,Beef; Guac; Cheese; Fries; Sour cream,,
+159,Mixed,Lolita's taco shop,29000 Old Town Front St,Temecula,8.25,3.5,No,Beef; Guac; Cheese; Beans,,
+160,California Everything,California Burritos,29000 Old Town Front St,Temecula,6.25,3.9,No,Beef; Pico; Guac; Cheese; Fries,,Temperature brought it down
+161,California Everything,California Burritos,29000 Old Town Front St,Temecula,6.25,4.25,No,Beef; Pico; Guac; Cheese; Fries,,
+162,California Everything,California Burritos,29000 Old Town Front St,Temecula,6.25,4,No,Beef; Pico; Guac; Cheese; Fries,,
+163,California Everything,California Burritos,29000 Old Town Front St,Temecula,6.25,4.5,No,Beef; Pico; Guac; Cheese; Fries,,
+164,California Everything,California Burritos,29000 Old Town Front St,Temecula,6.25,4.5,No,Beef; Pico; Guac; Cheese; Fries,,
+165,Carnitas,California Burritos,29000 Old Town Front St,Temecula,5.5,4.5,No,Guac; Pork,,
+166,Carne asada everything,California Burritos,29000 Old Town Front St,Temecula,6.25,4,No,Beef; Pico; Guac; Cheese; Sour cream,,
+167,Carne asada everything,California Burritos,29000 Old Town Front St,Temecula,6.25,4.5,No,Beef; Pico; Guac; Cheese; Sour cream,,
+168,Carne asada everything,California Burritos,29000 Old Town Front St,Temecula,6.25,4.2,No,Beef; Pico; Guac; Cheese; Sour cream,,
+169,California Everything,California Burritos,29000 Old Town Front St,Temecula,6.25,3.75,No,Beef; Pico; Guac; Cheese; Fries,,
+170,California Everything,California Burritos,29000 Old Town Front St,Temecula,6.25,4,No,Beef; Pico; Guac; Cheese; Fries,,
+171,California Everything,California Burritos,29000 Old Town Front St,Temecula,6.25,4,No,Beef; Pico; Guac; Cheese; Fries,,
+172,California Everything,California Burritos,29000 Old Town Front St,Temecula,6.25,3.4,No,Beef; Pico; Guac; Cheese; Fries,,
+173,California Everything,California Burritos,29000 Old Town Front St,Temecula,6.25,,No,Beef; Pico; Guac; Cheese; Fries,,
+174,Surf & Turf,California Burritos,29000 Old Town Front St,Temecula,7,,No,,,
+175,Carne asada everything,California Burritos,29000 Old Town Front St,Temecula,6.25,4,No,Beef; Pico; Guac; Cheese; Sour cream,,
+176,Surf & Turf,Los Primos Mexican Food,29000 Old Town Front St,Temecula,7,2.5,No,Beef; Cheese; Bell; peper; Onion,,
+177,Adobada,Los Primos Mexican Food,29000 Old Town Front St,Temecula,6.25,2.6,No,,,
+178,Carne asada,Los Primos Mexican Food,29000 Old Town Front St,Temecula,7,2,No,,,
+179,California,Papa Chito's Mexican Food,3951 Governor Dr,University City,6.25,2.2,No,Beef; Pico; Cheese; Fries,https://www.yelp.com/biz/papa-chitos-mexican-food-san-diego,
+180,California,Papa Chito's Mexican Food,3951 Governor Dr,University City,6.25,3.75,No,Beef; Pico; Cheese; Fries,https://www.yelp.com/biz/papa-chitos-mexican-food-san-diego,
+181,California,El Pueblo Mexican Food,820 Birmingham Dr,Cardiff ,4.99,4.3,No,Beef; Pico; Cheese; Fries,https://www.yelp.com/biz/el-pueblo-authentic-mexican-food-cardiff-by-the-sea,
+182,California,Burros and Fries,4705 Clairemont Dr,Clairemont,6.89,3.5,No,Beef; Pico; Cheese; Fries; Sour cream,http://www.burrosandfries.com/,good fries
+183,Carne asada,Burros and Fries,4705 Clairemont Dr,Clairemont,6.89,4,No,Beef; Pico; Guac,http://www.burrosandfries.com/,very little guac
+184,Adobada,King Burrito,3490 Marron Rd,Oceanside,4.99,2.8,No,Beef; Guac; Pork,https://www.yelp.com/biz/king-burrito-oceanside-2,Too much tortilla per bite
+185,California,King Burrito,3490 Marron Rd,Oceanside,5.29,2.5,No,Beef; Pico; Cheese; Fries,https://www.yelp.com/biz/king-burrito-oceanside-2,it does taste homemade. but that's not a good thing
+186,California,Taco stand,3490 Marron Rd,Oceanside,7.49,4,No,Beef; Pico; Guac; Cheese; Fries; Sour cream,,
+187,California,Taco stand,3490 Marron Rd,Oceanside,7.49,4,No,Beef; Pico; Guac; Cheese; Fries; Sour cream,,
+188,Adobada,Carmen's Mexican Food,4937 Diane Ave,Clairemont,6.5,3.6,No,Guac; Pork; Beans; Cilantro; Onion,https://www.yelp.com/biz/carmens-authentic-mexican-food-san-diego,really good guac
+189,Carne asada,Carmen's Mexican Food,4937 Diane Ave,Clairemont,6.5,4,No,Beef; Pico; Guac,,
+190,Pollo asado,Senor Panchos,1909 W San Marcos Blvd,San Marcos,6.25,2.9,No,,https://www.yelp.com/biz/senor-panchos-mexican-restaurant-san-marcos,"guac is good, very avocado-y"
+191,California,Senor Panchos,1909 W San Marcos Blvd,San Marcos,6.25,4,No,,https://www.yelp.com/biz/senor-panchos-mexican-restaurant-san-marcos,feels very dense; a lot of meat
+192,California,Los Cabos,165 S Rancho Santa Fe Rd,San Marcos,5.99,3,Yes,Beef; Cheese; Fries; Sour cream,https://www.yelp.com/biz/los-cabos-san-marcos,Repeatedly get large bites of sour cream
+193,Al pastor,Los Cabos,165 S Rancho Santa Fe Rd,San Marcos,5.69,4,Yes,Guac; Pork; Cilantro; Onion,https://www.yelp.com/biz/los-cabos-san-marcos,Really good with lime
+194,Tilapia one,Rubios UCSD,9500 Gilman Dr,UTC,7.99,3.2,Yes,Guac; Fish; Rice; Cabbage; Corn,https://www.yelp.com/biz/rubios-la-jolla-4,
+195,Surf & Turf,Lucha Libre North Park,3016 University Ave,North Park,8.25,3,Yes,Beef; Pico; Shrimp; Rice; Sauce; Avocado,https://www.yelp.com/biz/lucha-libre-san-diego,
+196,Surf & Turf,Lucha Libre North Park,3016 University Ave,North Park,8.25,2,Yes,Beef; Pico; Shrimp; Rice; Sauce; Avocado,https://www.yelp.com/biz/lucha-libre-san-diego,
+197,Surf & Turf,Lucha Libre North Park,3016 University Ave,North Park,8.25,2.4,Yes,Beef; Pico; Shrimp; Rice; Sauce; Avocado,https://www.yelp.com/biz/lucha-libre-san-diego,Not as good as the first time
+198,Surf & Turf,Lucha Libre North Park,3016 University Ave,North Park,8.25,2.2,Yes,Beef; Pico; Shrimp; Rice; Sauce; Avocado,https://www.yelp.com/biz/lucha-libre-san-diego,
+199,Surf & Turf,Lucha Libre North Park,3016 University Ave,North Park,8.25,3.6,Yes,Beef; Pico; Shrimp; Rice; Sauce; Avocado,https://www.yelp.com/biz/lucha-libre-san-diego,
+200,Surfin California,Lucha Libre North Park,3016 University Ave,North Park,8.25,3.9,Yes,Beef; Pico; Cheese; Fries; Shrimp; Sauce; Avocado,https://www.yelp.com/biz/lucha-libre-san-diego,thick chips
+201,Surfin California,Lucha Libre North Park,3016 University Ave,North Park,8.25,3.5,Yes,Beef; Pico; Cheese; Fries; Shrimp; Sauce; Avocado,https://www.yelp.com/biz/lucha-libre-san-diego,Good guac
+202,Surfin California,Lucha Libre North Park,3016 University Ave,North Park,8.25,3,Yes,Beef; Pico; Cheese; Fries; Shrimp; Sauce; Avocado,https://www.yelp.com/biz/lucha-libre-san-diego,"shrimp was questionable; salsa was mediocre to bad; overall ok, better than past burritos at lucha libre"
+203,Surfin California,Lucha Libre North Park,3016 University Ave,North Park,8.25,3.5,Yes,Beef; Pico; Cheese; Fries; Shrimp; Sauce; Avocado,https://www.yelp.com/biz/lucha-libre-san-diego,good guac but fries could be better
+204,Surfin California,Lucha Libre North Park,3016 University Ave,North Park,8.25,3.5,Yes,Beef; Pico; Cheese; Fries; Shrimp; Sauce; Avocado,https://www.yelp.com/biz/lucha-libre-san-diego,probably positively biased by service
+205,Surfin California,Lucha Libre North Park,3016 University Ave,North Park,8.25,4,Yes,Beef; Pico; Cheese; Fries; Shrimp; Sauce; Avocado,https://www.yelp.com/biz/lucha-libre-san-diego,
+206,Surfin California,Lucha Libre North Park,3016 University Ave,North Park,8.25,3,Yes,Beef; Pico; Cheese; Fries; Shrimp; Sauce; Avocado,https://www.yelp.com/biz/lucha-libre-san-diego,
+207,Nutty,Lucha Libre North Park,3016 University Ave,North Park,7.5,4.4,Yes,Cheese; Fries; Sour cream; Chicken; Rice; Sauce,https://www.yelp.com/biz/lucha-libre-san-diego,
+208,Veg Out,Lucha Libre North Park,3016 University Ave,North Park,6.95,4.5,Yes,Beans; Lettuce; Bell; peper; Sauce; Mushroom; Avocado; Zucchini,https://www.yelp.com/biz/lucha-libre-san-diego,
+209,Vegetarian,Lucha Libre North Park,3016 University Ave,North Park,5.25,3.25,Yes,Pico; Fries; Rice; Beans; Lettuce,https://www.yelp.com/biz/lucha-libre-san-diego,
+210,Bean and cheese,Lucha Libre North Park,3016 University Ave,North Park,3.75,2,Yes,Cheese; Beans,https://www.yelp.com/biz/lucha-libre-san-diego,Bland
+211,California - Steak,Lucha Libre North Park,3016 University Ave,North Park,7.5,3.9,Yes,Beef; Pico; Cheese; Fries; Sour cream,https://www.yelp.com/biz/lucha-libre-san-diego,"first bite sour cream, but probably the best steak I've had in a burrito"
+212,California - Steak,Lucha Libre North Park,3016 University Ave,North Park,7.5,3.5,Yes,Beef; Pico; Cheese; Fries; Sour cream,https://www.yelp.com/biz/lucha-libre-san-diego,fries = 4
+213,California - Pork Adobada,Lucha Libre North Park,3016 University Ave,North Park,7.5,3,Yes,Pico; Cheese; Fries; Sour cream; Pork,https://www.yelp.com/biz/lucha-libre-san-diego,
+214,California - Pork Adobada,Lucha Libre North Park,3016 University Ave,North Park,7.5,4.25,Yes,Pico; Cheese; Fries; Sour cream; Pork,https://www.yelp.com/biz/lucha-libre-san-diego,
+215,California - Pork Adobada,Lucha Libre North Park,3016 University Ave,North Park,7.5,4.5,Yes,Pico; Cheese; Fries; Sour cream; Pork,https://www.yelp.com/biz/lucha-libre-san-diego,
+216,California - Chicken,Lucha Libre North Park,3016 University Ave,North Park,7.5,2.5,Yes,Pico; Guac; Cheese; Fries; Sour cream; Chicken,https://www.yelp.com/biz/lucha-libre-san-diego,
+217,California - Chicken,Lucha Libre North Park,3016 University Ave,North Park,7.5,3,Yes,Pico; Cheese; Fries; Sour cream; Chicken,https://www.yelp.com/biz/lucha-libre-san-diego,"large, bt feels good in my hands"
+218,Holy Moly,Lucha Libre North Park,3016 University Ave,North Park,7.5,3.5,Yes,Cheese; Sour cream; Chicken; Rice; Sauce,https://www.yelp.com/biz/lucha-libre-san-diego,
+219,Holy Moly,Lucha Libre North Park,3016 University Ave,North Park,7.5,1.5,Yes,Cheese; Sour cream; Chicken; Rice; Sauce,https://www.yelp.com/biz/lucha-libre-san-diego,all meat at bottom 1/8th
+220,Holy Moly,Lucha Libre North Park,3016 University Ave,North Park,7.5,4,Yes,Cheese; Sour cream; Chicken; Rice; Sauce,https://www.yelp.com/biz/lucha-libre-san-diego,
+221,Holy Moly,Lucha Libre North Park,3016 University Ave,North Park,7.5,2,Yes,Cheese; Sour cream; Chicken; Rice; Sauce,https://www.yelp.com/biz/lucha-libre-san-diego,Ordered a specialty burrito and guess I was expecting an ordinary one! Sauce was good but overpowering; no veggies at all; overall just did not feel like a burrito.
+222,Holy Moly,Lucha Libre North Park,3016 University Ave,North Park,7.5,4,Yes,Cheese; Sour cream; Chicken; Rice; Sauce,https://www.yelp.com/biz/lucha-libre-san-diego,
+223,Pastor,Tacos La Bala,5800 Bellaire Blvd,Houston,4.99,2.5,No,,tacoslabala.com,Everything is in spanish. Get a taco or sope
+224,Barbacoa,Tacos La Bala,5800 Bellaire Blvd,Houston,4.99,2.4,No,,tacoslabala.com,"Burritos cut in half, felt like a wrap instead of a burrito"
+225,Adobada,Cancun Mexican & Seafood,5800 Bellaire Blvd,Houston,6.45,3.5,No,Guac; Pork; Cilantro; Onion,,Free salad
+226,California,Cancun Mexican & Seafood,5800 Bellaire Blvd,Houston,6.99,4,No,Beef; Cheese; Fries; Sour cream,,
+227,California,Roberto's Taco Shop Clairemont,3095 Clairemont Dr,Clairemont,5.79,3.6,No,Beef; Cheese; Fries,https://www.yelp.com/biz/robertos-taco-shop-clairemont-san-diego,Fries are really good but the overall flavor is plain because lack of ingredients
+228,California,Roberto's Taco Shop Clairemont,3095 Clairemont Dr,Clairemont,5.79,3,No,Beef; Cheese; Fries,https://www.yelp.com/biz/robertos-taco-shop-clairemont-san-diego,
+229,California + Guac + sour cream,Roberto's Taco Shop Clairemont,3095 Clairemont Dr,Clairemont,7.29,4,No,Beef; Guac; Cheese; Fries; Sour cream,https://www.yelp.com/biz/robertos-taco-shop-clairemont-san-diego,
+230,Carne asada,Roberto's Taco Shop Clairemont,3095 Clairemont Dr,Clairemont,5.69,3,No,Beef; Guac,https://www.yelp.com/biz/robertos-taco-shop-clairemont-san-diego,
+231,Carnitas,Chipotle,2505 Palomar airport Rd,Carlsbad,7.15,2.75,No,Beef; Sour cream; Pork; Rice; Beans; Bell; peper; Corn,https://www.yelp.com/biz/chipotle-mexican-grill-carlsbad,
+232,Al pastor,Taco stand,2505 Palomar airport Rd,Carlsbad,6.99,4.5,No,,,
+233,California,Taco stand,2505 Palomar airport Rd,Carlsbad,7.49,4.7,No,,,
+234,California,Los Tacos,2505 Palomar airport Rd,Carlsbad,7.9,4.2,No,,,Tortilla is burnt a bit but good. Pick is good
+235,Local,Los Tacos,2505 Palomar airport Rd,Carlsbad,7.9,4.3,No,,,Melted cheese is good. Cilantro is fresh
+236,California,El Cuervo,110 Washington St,Hillcrest,6.95,3.6,No,Beef; Guac; Cheese; Fries; Sour cream,https://www.yelp.com/biz/el-cuervo-taco-shop-san-diego,Alfajores dessert and horchata are super good
+237,Pollo adobado,El Cuervo,110 Washington St,Hillcrest,5.95,4,No,Guac; Pork,https://www.yelp.com/biz/el-cuervo-taco-shop-san-diego,First burrito I enjoyed from top to bottom
+238,Asada,El Torrito Foods,249 Emerald Dr,Vista,5.49,3.1,No,Beef; Rice; Beans; Cilantro; Onion,https://www.yelp.com/biz/el-torito-foods-vista-2,Good because so cheap
+239,Adobada,El Torrito Foods,249 Emerald Dr,Vista,3.99,2.6,No,Pork; Rice; Beans; Cilantro; Onion,https://www.yelp.com/biz/el-torito-foods-vista-2,tamale isn't good
