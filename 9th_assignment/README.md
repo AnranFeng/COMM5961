@@ -5,10 +5,10 @@
 <p> I once saw an article about the history of potato chips, which is interesting. Based on it, I make this timeline, using different media types including <strong>Images, Soundcloud, Google Map, Youtube video, Wikipedia, and a Twitter embedded code.</strong></p>
 
 <hr>
-There is a report and question:
-At the last time point, I used a Twitter embedded code to present the tweets with hashtag #potatochips, because the Timeline JS only support the url of specific twitter account or tweet, not hashtag page.
-It is stable until I upload to drupal (see the screenshots). When I check the timeline, it didn't show.
+<h3>There is a report and question:</h3>
+<br>At the last time point, I used a Twitter embedded code to present the tweets with hashtag #potatochips, because the Timeline JS only support the url of specific twitter account or tweet, not hashtag page.
+<br>It is stable until I upload to drupal (see the screenshots). When I check the timeline, it didn't show.
 <img src="fail.png">
-But when I refresh the page, it successfully showed the effect I want. It should be like this.
-<img src="successfull.png">
-I have tried many ways to fix this bug, but all did not work. I didn't know it is because of the limit of Twitter or anything else. Can you give me any advice on it?
+<br>But when I refresh the page, it successfully showed the effect I want. It should be like this.
+<img src="successful.png">
+<br>I have tried many ways to fix this bug, but all did not work. I didn't know it is because of the limit of Twitter or anything else. Can you give me any advice on it?
