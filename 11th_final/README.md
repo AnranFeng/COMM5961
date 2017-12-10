@@ -27,12 +27,14 @@
 </div>
 
 <div>
-	<h2><a href="http://dev-holyif.pantheonsite.io/">Previous Drupal (Class)</a></h2>
-	<h2><a href="http://dev-guagua.pantheonsite.io">New Drupal (Website)</a></h2>
+	<h2>Drupal</h2>
 	<p>Same username and password.</p>
 	<p>Username:bernard</p>
 	<p>Email address: bernard@cuhk.edu.hk</p>
 	<p>Password:password</p>
+	<h4><a href="http://dev-holyif.pantheonsite.io/">Previous Drupal (Class)</a></h4>
 	<p>All the in-class exercise and homework are in this Drupal.</p>
+	<h4><a href="http://dev-guagua.pantheonsite.io">New Drupal (Website)</a></h4>
+	<p>For website.</p>
 </div>
 
