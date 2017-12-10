@@ -1,6 +1,10 @@
 # final
 
-<h4>Bernard, thanks for your teaching. I really learn much. I also did some work on Google Tag Manager, just in case，I also grant you rights for it. If there is any problem with the permissions, please contact me. My email is <a href="mailto:holyif@hotmail.com">holyif@hotmail.com</a></h4>
+<div>
+	<h2><a href="Final_Report.pdf">Final Report</a></h2>
+</div>
+
+<h4>Bernard, thanks for your teaching. I really learned much. I also did some work on Google Tag Manager, just in case，I also grant you rights for it. If there is any problem with the permissions, please contact me. My email is <a href="mailto:holyif@hotmail.com">holyif@hotmail.com</a></h4>
 
 <div>
 	<h2><a href="http://dev-guagua.pantheonsite.io/final/">My personal website</a></h2>
