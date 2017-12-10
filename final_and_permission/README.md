@@ -1,7 +1,7 @@
-# final
+#Final
 
 <div>
-	<h2><a href="Final_Report.pdf">Final Report</a></h2>
+	<h2>Here is My<a href="Final_Report.pdf">Final Report</a></h2>
 </div>
 
 <h4>Bernard, thanks for your teaching. I really learned much. I also did some work on Google Tag Manager, just in case，I also grant you rights for it. If there is any problem with the permissions, please contact me. My email is <a href="mailto:holyif@hotmail.com">holyif@hotmail.com</a></h4>
@@ -9,6 +9,7 @@
 <div>
 	<h2><a href="http://dev-guagua.pantheonsite.io/final/">My personal website</a></h2>
 	<p>I didn't use json in this case.</p>
+	<h2><a href="http://dev-guagua.pantheonsite.io">New Drupal</a></h2>
 	<p>Username:bernard</p>
 	<p>Email address: bernard@cuhk.edu.hk</p>
 	<p>Password:password</p>
@@ -30,7 +31,7 @@
 </div>
 
 <div>
-	<h2><a href="http://dev-holyif.pantheonsite.io/">My Drupal</a></h2>
+	<h2><a href="http://dev-holyif.pantheonsite.io/">Previous Drupal</a></h2>
 	<p>All the in-class exercise and homework are in this Drupal.</p>
 	<p>Username:bernard</p>
 	<p>Email address: bernard@cuhk.edu.hk</p>
